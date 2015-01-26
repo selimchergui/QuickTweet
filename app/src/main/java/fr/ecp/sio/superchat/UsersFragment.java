@@ -68,6 +68,8 @@ public class UsersFragment extends ListFragment implements LoaderManager.LoaderC
     }
 
     public void initAdapter(String option){
+        //option=0: user already logged
+        //option=1: user not yet logged
         mListAdapter = new UsersAdapter();
         setListAdapter(mListAdapter);
         new AsyncTask<String, Void, Boolean>() {
