@@ -1,6 +1,6 @@
 <h3>QuickTweet:</h3>
-``Pour suivre/désuivre un utilisateur, il faut être connecté.``
-`Si l'application est lancée pour la première fois, l'interface d'authentification apparaît en premier:`
+Pour suivre/désuivre un utilisateur, il faut être connecté.
+Si l'application est lancée pour la première fois, l'interface d'authentification apparaît en premier:
 ![alt tag](C1.png)
 
 Une fois authentifié, la case de utilisateur sera colorée en bleu:
